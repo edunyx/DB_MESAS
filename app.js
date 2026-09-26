@@ -59,7 +59,7 @@ const MESAS = [
         direccion: 'JR. EL QUETZAL 146 URB. SANTA ANITA',
         coords: { lat: -12.048556, lng: -76.965083 },
         estado: 'ENTREGADO',
-        nota: ''
+        nota: 'CAPACITADO'
       },
       {
         cargo: 'TERCER SUPLENTE',
@@ -204,7 +204,7 @@ const MESAS = [
         direccion: 'CALLE MARIA PARADO DE BELLIDO 363 COOP. UNIVERSAL ETAPA',
         coords: { lat: -12.043167, lng: -76.982611 },
         estado: 'ENTREGADO',
-        nota: ''
+        nota: 'CAPACITADO'
       },
       {
         cargo: 'SEXTO SUPLENTE',
@@ -250,7 +250,7 @@ const MESAS = [
         direccion: 'URB. LOS CEDROS MZ. E-5 LOTE 12',
         coords: { lat: -12.042361, lng: -76.951889 },
         estado: 'ENTREGADO',
-        nota: ''
+        nota: 'MAMÁ LACTANTE'
       },
       {
         cargo: 'TERCER MIEMBRO',
@@ -286,7 +286,7 @@ const MESAS = [
         direccion: 'EL QUETZAL 137 URB. SANTA ANITA',
         coords: { lat: -12.048556, lng: -76.965250 },
         estado: 'ENTREGADO',
-        nota: '',
+        nota: 'CAPACITADA',
         /*certificado: 'certificados/ruth-elena-parra-williams.pdf'*/
       },
       {
