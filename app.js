@@ -36,7 +36,7 @@ const MESAS = [
         dni: '17930902',
         direccion: 'JR. LOS ZORZALES 114',
         coords: { lat: -12.053222, lng: -76.962917 },
-        estado: 'NO ENTREGADO',
+        estado: 'NO ENTREGADO - VIRTUAL',
         nota: 'COLGÓ LA LLAMADA'
       },
       {
@@ -70,7 +70,7 @@ const MESAS = [
         direccion: 'CALLE JOSE CARLOS MARIATEGUI 155 COOP. LA UNIVERSAL',
         coords: { lat: -12.041389, lng: -76.979806 },
         estado: 'ENTREGADO',
-        nota: ''
+        nota: 'CERTIFICADO'
       },
       {
         cargo: 'CUARTO SUPLENTE',
@@ -91,7 +91,7 @@ const MESAS = [
         dni: '75693581',
         direccion: 'ASOC. LA ENCALADA MZ. Ñ LOTE 11',
         coords: { lat: -12.032722, lng: -76.958806 },
-        estado: 'NO ENTREGADO',
+        estado: 'ENTREGADO',
         nota: ''
       },
       {
@@ -123,8 +123,8 @@ const MESAS = [
         dni: '75038773',
         direccion: 'CALLE SAN MARCOS MZ. C LOTE 5 AH. SAN MARCOS DE ATE SECTOR',
         coords: { lat: -12.041861, lng: -76.962750 },
-        estado: 'NO ENTREGADO',
-        nota: 'WHATSAPP'
+        estado: 'NO ENTREGADO - VIRTUAL',
+        nota: 'CAPACITADO'
       },
       {
         cargo: 'SECRETARIO',
@@ -135,7 +135,7 @@ const MESAS = [
         direccion: 'CULTURA WARI 310 COOP. LOS CHANCAS DE ANDAHUAYLAS',
         coords: { lat: -12.041306, lng: -76.970917 },
         estado: 'ENTREGADO',
-        nota: ''
+        nota: 'CAPACITADO'
       },
       {
         cargo: 'TERCER MIEMBRO',
@@ -148,8 +148,8 @@ const MESAS = [
         dni: '43258039',
         direccion: 'CALLE LAS PERDICES 455 PISO 3',
         coords: { lat: -12.051778, lng: -76.965056 },
-        estado: 'NO ENTREGADO',
-        nota: 'Piura'
+        estado: 'NO ENTREGADO - VIRTUAL',
+        nota: 'CAPACITADO - Piura'
       },
       {
         cargo: 'PRIMER SUPLENTE',
@@ -181,8 +181,8 @@ const MESAS = [
         dni: '48187335',
         direccion: 'ASOC. PROP. PRADERAS DE SANTA ANITA ETAPA 2 MZ.V LOTE 12',
         coords: { lat: -12.027833, lng: -76.964583 },
-        estado: 'NO ENTREGADO',
-        nota: ''
+        estado: 'NO ENTREGADO - VIRTUAL',
+        nota: 'CAPACITADO'
       },
       {
         cargo: 'CUARTO SUPLENTE',
@@ -193,7 +193,7 @@ const MESAS = [
         direccion: 'ASOC. MONTERREY MZ. B LOTE 30',
         coords: { lat: -12.043556, lng: -76.955972 },
         estado: 'ENTREGADO',
-        nota: ''
+        nota: 'CAPACITADA'
       },
       {
         cargo: 'QUINTO SUPLENTE',
@@ -215,7 +215,7 @@ const MESAS = [
         direccion: 'CALLE LOS JILGUEROS 369 URB. SANTA ANITA 2DO SECTOR',
         coords: { lat: -12.047556, lng: -76.966806 },
         estado: 'NO ENTREGADO',
-        nota: ''
+        nota: 'CAPACITADA'
       }
     ]
   },
@@ -235,8 +235,8 @@ const MESAS = [
         dni: '40208374',
         direccion: 'ASOC. SAPOTAL MZ. E9 LOTE 33',
         coords: { lat: -12.043722, lng: -76.949917 },
-        estado: 'NO ENTREGADO',
-        nota: ''
+        estado: 'ENTREGADO',
+        nota: 'CAPACITADA'
       },
       {
         cargo: 'SECRETARIO',
@@ -274,8 +274,8 @@ const MESAS = [
         dni: '72510461',
         direccion: 'CALLE ANTONIO PORTUGAL 721 URB. LOS FICUS',
         coords: { lat: -12.048611, lng: -76.973333 },
-        estado: 'NO ENTREGADO',
-        nota: ''
+        estado: 'NO ENTREGADO - VIRTUAL',
+        nota: 'CAPACITADO'
       },
       {
         cargo: 'SEGUNDO SUPLENTE',
@@ -311,7 +311,7 @@ const MESAS = [
         direccion: 'MZ. B LOTE 23 SANTA AURELIA',
         coords: { lat: -12.037583, lng: -76.952389 },
         estado: 'NO ENTREGADO',
-        nota: 'PROVINCIA'
+        nota: 'PROVINCIA - LLAMAR PARA QUE SE CAPACITE'
       },
       {
         cargo: 'QUINTO SUPLENTE',
@@ -333,7 +333,7 @@ const MESAS = [
         direccion: 'AMPLIACION LAS PRADERAS CALLE VIRU MZ. A2 LOTE 20',
         coords: { lat: -12.033999, lng: -76.964639 },
         estado: 'ENTREGADO',
-        nota: ''
+        nota: 'LLAMAR PARA QUE SE CAPACITE'
       }
     ]
   }
